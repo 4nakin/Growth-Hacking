@@ -1,8 +1,8 @@
 # Growth Hacking Manifesto
 
-### Index:
-1. What the fsck is growth hacking?
-2. The Three Magic Questions
+### table of contents:
+1. [What the fsck is growth hacking?](#what-the-fsck-is-growth-hacking)
+2. [The Three Magic Questions](#the-three-magic-questions)
 2. Tools of the Trade
 3. UX Principals & Basics
 4. Landing Page Optimization
