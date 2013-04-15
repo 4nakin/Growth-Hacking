@@ -2,8 +2,8 @@
 
 ### Index:
 1. What the fsck is growth hacking?
-2. Three important questions
-2. The Tools of the Trade
+2. The Three Magic Questions
+2. Tools of the Trade
 3. UX Principals & Basics
 4. Landing Page Optimization
 5. Fixing Leaky Pipes
@@ -37,7 +37,7 @@ Growth hackers are a unique hybrid of coder and marketer, they don't have to beg
 
 _Personal Note: take better notes._
 
-###See you all next week when I share the three magic questions that you need to keep asking yourself now, always, and forever.
+###See you all next week when I share the three magic questions you need to be asking yourself now, always, and forever.
 
  
 
@@ -75,7 +75,7 @@ A better user flow might be something like this:
 Noone will remember your tagline or description, but they will remember how they felt.  Did you make them smile, or did you piss them off.  That's what matters.
 
 
-## The Tools of the Trade
+## Tools of the Trade
 
 ## UX Principals & Basics
 
