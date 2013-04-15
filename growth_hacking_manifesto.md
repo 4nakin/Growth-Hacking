@@ -23,9 +23,9 @@ Growth hackers are a unique hybrid of coder and marketer, they don't have to beg
 
 ####I'll just leave these quotes from the AD:tech growth hacking panel here.
 
->"Growth hacking is a cooler version of product marketing" - Christine, Intel
+>"Growth hacking is a cooler version of product marketing" - Christine Herron, Intel ([@christine](http://twitter.com/christine))
 
->"Solving problems with data." - I forget so I'll just elaborate on the quote. Test, analyize, deploy, repeat.
+>"Solving problems with data." - I forget, so I'll just elaborate on the quote. Always test your assumptions.
 
 >"Innovate a non traditional way to make something happen." - Be bold and creative.
 
@@ -33,11 +33,11 @@ Growth hackers are a unique hybrid of coder and marketer, they don't have to beg
 
 >"Most critical is getting the right people into the funnel."  - [… at the right time] 
 
->"Hack biz dev. Hack marketing. Hack the norm." - It's an ethos and mantra that works everywhere
+>"Hack biz dev. Hack marketing. Hack the norm." - It's an ethos and mantra that works everywhere.
 
 _Personal Note: take better notes._
 
-###See you all next week when I share the three magic questions you need to be asking yourself now, always, and forever.
+### See you all next week when I share the three magic questions you need to be asking yourself now, always, and forever.
 
  
 
