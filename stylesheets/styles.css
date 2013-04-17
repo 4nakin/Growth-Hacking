@@ -175,7 +175,7 @@ width: 100%;
 .container{
     width:1000px;
     margin:0 auto;
-    padding: 0 20px;
+    padding: 0 0 0 20px;
     position:relative;
 }
 
@@ -236,6 +236,7 @@ header{
     position:absolute;
     right:0; 
     top:0px;
+    right: 20px;
     list-style:none;
 }
 
