@@ -18,6 +18,13 @@
 <body>
 <header>
 <div class="container">
+  <div class="hn_bar"> 
+    {% if page.url == "/index.html" %}
+      <a href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fgrowth.mashape.com/" style="color:#000;font-weight:bold;display:block">Submit On Hacker News</a>
+    {% else %}
+      <a href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fgrowth.mashape.com{{page.url}}" style="color:#000;font-weight:bold;display:block">Submit On Hacker News</a>
+    {% endif %}
+  </div>
   <!-- Logo -->
   <a href="https://mashape.com/" id="logo"><img src="http://s10.postimg.org/j0dlwd36x/logo.png" alt="Logo"></a>
   <!-- Navigation -->
