@@ -9,7 +9,7 @@ layout: default
 2. Where do you want them to go?
 3. How do you want them to feel?
 
-Your probably thinking, well duh! Allow me to explain why I'm starting our growth hacking series of blog posts with seemingly obvious questions. Let's break it down question by question.
+Your probably thinking, well duh! Allow me to explain why I'm sharing these seemingly obvious questions. Let's break it down question by question.
 
 ### What do you want your users to do?
 
