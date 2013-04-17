@@ -13,17 +13,15 @@
 
 ## What the fsck is growth hacking?
 
-There's a lot of discussion about growth hacking in the technosphere right now. Startups are falling over themselves to hire these masters of user growth. Hell that's how I got hired at my current role at mashape and it's also why your here reading this.
-
-Even though no one quite agrees on exactly what growth hacking exactly is, and that's a good thing, your not going to find a cookie cutter receipe to build sustainable user growth for your product. Things that worked for Facebook won't be what makes the next big social network overcome them.  After all it's all about innovation, not replication. While the methods a growth hacker might employ are always going to be different dependent upon your specific goals and userbase, the qualities and techniques of successful growth hackers have a lot in common.
+Even though no one quite agrees on exactly what growth hacking exactly is, and that's a good thing since your not going to find a cookie cutter receipe to build sustainable user growth for your product. Things that worked for Facebook won't be what makes the next big social network overcome them.  After all it's all about innovation, not replication. So while the methods a growth hacker might employ are always going to be different dependent upon your specific goals and userbase, the qualities and techniques of successful growth hackers have a lot in common.
 
 A growth hacker is just a fancy word for internet marketer.  As Gary Vaynerchuk said at a keynote he gave last week "Growth hacking is just GET USERS!" that's the biggest part of growth hacking, building a large influx of new active users.  Notice I said active, the second part of growth hacking is to keep your current users engaged and interested in sticking around. Finally your goal should always be to make your users happy. Happy customers share the experience with their friends.
 
-Growth hackers are a unique hybrid of coder and marketer, they don't have to beg engineering to implement javascript tracking and testing tools or pull up the latest data from the datastore. With the freedom of being able to do the whole process without barriers and obstacles in the way, successful growth hackers can try a lot of different things really fast.  And with good tools, they can measure and analyze what's working and not working. If you didn't bother looking at the table of contents above I'll be covering these tools in the third chapter, so make sure to [stay tuned](subscribelink).
+Growth hackers are a unique hybrid of coder and marketer, they don't have to beg engineering to implement javascript tracking and testing tools or pull up the latest data from the datastore. With the freedom of being able to do the whole process without barriers and obstacles in the way, successful growth hackers can try a lot of different things really fast.  And with good tools, they can measure and analyze what's working and not working. If you didn't bother looking at the table of contents above I'll be covering these tools in the third chapter, so make sure to check back or [subscribe via email](subscribelink).
 
 ####I'll just leave these quotes from the AD:tech growth hacking panel here.
 
->"Growth hacking is a cooler version of product marketing" - Christine Herron, Intel ([@christine](http://twitter.com/christine))
+>"Growth hacking is a cooler version of product marketing" - Christine Herron, Intel
 
 >"Solving problems with data." - I forget, so I'll just elaborate on the quote. Always test your assumptions.
 
