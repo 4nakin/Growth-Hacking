@@ -10,7 +10,7 @@ Even though no one quite agrees on exactly what growth hacking exactly is, and t
 
 A growth hacker is just a fancy word for internet marketer.  As Gary Vaynerchuk said at a keynote he gave last week "Growth hacking is just GET USERS!" that's the biggest part of growth hacking, building a large influx of new active users.  Notice I said active, the second part of growth hacking is to keep your current users engaged and interested in sticking around. Finally your goal should always be to make your users happy. Happy customers share the experience with their friends.
 
-Growth hackers are a unique hybrid of coder and marketer, they don't have to beg engineering to implement javascript tracking and testing tools or pull up the latest data from the datastore. With the freedom of being able to do the whole process without barriers and obstacles in the way, successful growth hackers can try a lot of different things really fast.  And with good tools, they can measure and analyze what's working and not working. I'll be covering these tools in the third article, so make sure to check back or subscribe via email.
+Growth hackers are a unique hybrid of coder and marketer, they don't have to beg engineering to implement javascript tracking and testing tools or pull up the latest info from the database. With the freedom of being able to do the whole process without barriers and obstacles in the way, successful growth hackers can try a lot of different things really fast.  And with good tools, they can measure and analyze what's working and not working. I'll be covering these tools in the third article, so make sure to check back or subscribe via email.
 
 ####I'll just leave these quotes from the AD:tech growth hacking panel here.
 
