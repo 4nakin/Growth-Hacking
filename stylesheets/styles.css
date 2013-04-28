@@ -225,6 +225,10 @@ header{
     margin-right:40px;
 }
 
+#navigation li.active {
+  border-bottom: 3px solid #9ac96f;
+}
+
 #navigation li a{
     text-transform:uppercase;
     font-weight:100;
